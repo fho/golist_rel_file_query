@@ -1,1 +1,1 @@
-Code to reproduce issue: https://github.com/golang/go/issues/58726
+Code to reproduce issue: https://github.com/golang/go/issues/65965
